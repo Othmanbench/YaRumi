@@ -1,0 +1,17 @@
+{
+  "name": "namestorage",
+  "version": "1.0.0",
+  "description": "Storing names of contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Othman BB",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.2.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "sqlite3": "^3.1.8"
+  }
+}
